@@ -57,5 +57,5 @@ ggplot(mean_area_decade, aes(x = mean_area, y = decade_built_cat)) +
           x = "Mean area (square feet)",
           y = "Decade built",
           title = "Mean area of houses in Duke Forest, by decade built"
-      )
+      ) 
 ```
